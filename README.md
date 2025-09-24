@@ -25,5 +25,5 @@ Automate **Instagram Reel uploads** and receive **Telegram notifications**! Post
 ## 📝 Setup
 1. Clone repo:  
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/<kashu9313161e>/<Simple Automation>.git
+cd <Simple Automation>
